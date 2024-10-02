@@ -9,8 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.0.0
-  flutter_inappwebview: ^6.0.0-beta.23
+  http: ^1.2.2
+  flutter_inappwebview: ^6.1.3
 
 dev_dependencies:
   lints: ^2.1.0

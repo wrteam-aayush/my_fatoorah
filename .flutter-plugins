@@ -1,2 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-flutter_inappwebview=/Users/mohamed_dawood/.pub-cache/hosted/pub.dev/flutter_inappwebview-6.0.0-beta.23/
+flutter_inappwebview=/Users/wrteam/.pub-cache/hosted/pub.dev/flutter_inappwebview-6.1.3/
+flutter_inappwebview_android=/Users/wrteam/.pub-cache/hosted/pub.dev/flutter_inappwebview_android-1.1.2/
+flutter_inappwebview_ios=/Users/wrteam/.pub-cache/hosted/pub.dev/flutter_inappwebview_ios-1.1.1/
+flutter_inappwebview_macos=/Users/wrteam/.pub-cache/hosted/pub.dev/flutter_inappwebview_macos-1.1.1/
+flutter_inappwebview_web=/Users/wrteam/.pub-cache/hosted/pub.dev/flutter_inappwebview_web-1.1.1/
+flutter_inappwebview_windows=/Users/wrteam/.pub-cache/hosted/pub.dev/flutter_inappwebview_windows-0.4.1/
